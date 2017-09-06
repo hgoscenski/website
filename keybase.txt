@@ -1,0 +1,68 @@
+
+://keybase.io/boatmaker
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hgoscenski.com
+  * I am boatmaker (https://keybase.io/boatmaker) on keybase.
+  * I have a public key with fingerprint FFBE 01C2 4A78 0C05 4223  48DC 97B2 5FA7 797D F767
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014725f31588761d24bdd71820c15048be0c52c2cc86721abe79ddfda4fb9fc9760a",
+            "fingerprint": "ffbe01c24a780c05422348dc97b25fa7797df767",
+            "host": "keybase.io",
+            "key_id": "97b25fa7797df767",
+            "kid": "01014725f31588761d24bdd71820c15048be0c52c2cc86721abe79ddfda4fb9fc9760a",
+            "uid": "f4ad84252a3d322e6b5f3a653d99c619",
+            "username": "boatmaker"
+        },
+        "service": {
+            "hostname": "hgoscenski.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487051546,
+    "expire_in": 157680000,
+    "prev": "c4f09ede9bdf5ed89b703cccd8d8c57702e8ff76cd4c8c57b903073f998465e0",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJbSBRRGMd309IkQSkkiogmCUSxM7Mzc2a2C0QSWhSpVArlMnMu66Q7
+s82M24YJXTDKssCKJQTTKNCooIuJVJSuSJeHKKzsAiF0xQp6KEsyOiP21mPn5XC+
+8///vgvfQGaKL8Pf23M0nnb5xhv/g77WOl/FmdZ59Zxu4V1csJ6rIZMXqcXEcUM1
+BuaCHOABL0JBogFeUhQo81gQdYwhrwgA8RIQFZ0AJAlIQEiRocBrOoEqxhRrItVV
+ilQoA40r4KhhhokdtQ3TZVhKmY1HgqhBBSAgiYIQEBXM1DrLpUGoQkyhDJmx2nI8
+BytO1xxSaFgsxh6hyfL+of/PdddN4qioYUUUJEEL4IAgEFlnZE2WAlhVkcyrntAh
+tqlFCFPrluZGtBpicw0FHAvHDES8yXqtTEmqw5aDiOnUGIXIijB71LZcC1m13p/r
+Rp2g53V3RT3xTqKHpjAh3TAxGyVzxIjtGJbJBXmmRK7hcXlRgUDiJVEu4Eg8atgk
+ZHgKCcoKYMfLQ2IMiUQKVIKJqmMqEayoOgQBhBBWsIIkCIFAFMomirCIvICuggCA
+AaqqiihLBHBeYztMiwsKDOpqYcZ0jLCpuXU24Rr672xN9fkzfDOmT/N2zJcxM+vv
+5vVcTfu9uPz6C/t5bin9Qluaq8qEQbLTP/o0/GzNks/95+Mj5oOD196d/SC1NBWK
+8SfGpZPheNfwobGm7FD3wx9V68rSUldXVv+6kH8xGeq7+e5u+evGQbqI63g/Tpv3
+VG5fP6txpHZzYm3kq5hlpXT4zU91nbQz2SMPZVcsbTiRl7N3/vfiW6dGV8x9fOVn
+2eG534bV5MLclSWdOQs2DexPTc+IJxoHR98fDy+LHrlftOXzSFfltvwDh9oqktZY
+38T5x1WJ4qZ7c171bp2dN9xGSm4PDZWuSoD+g7EN6crb6LnWsuDGj49+jcfaJk7v
+zuyO+F6283ZyRclzJ9m+vIQc6y16tO8P9uVJeA==
+=oww0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/boatmaker
+
+==================================================================
