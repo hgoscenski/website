@@ -1,0 +1,20 @@
+@media all and (min-width: 600px){
+    .flex-wrapper {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex
+    }
+}
+
+.flex-cols {
+    flex-direction: row;
+    flex-wrap: wrap
+}
+
+footer .flex-item {
+    flex: 1 0 0%;
+    height: 1em
+}
+
